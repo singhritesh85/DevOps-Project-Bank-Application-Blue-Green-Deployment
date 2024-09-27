@@ -1,5 +1,7 @@
 # DevOps-Project-Bank-Application-Blue-Green-Deployment-Aws
 
+![image](https://github.com/user-attachments/assets/0a771a89-8ba6-4279-ab7a-b5c591ae2cd8)
+
 Installation of SonarQube-Scanner, Nexus Artifacts Uploader and pipeline utility step plugin as shown in the screenshot attached below.
 ![image](https://github.com/user-attachments/assets/9c8168bc-8fd1-4dfb-ad22-9a0d98d5850d)
 
