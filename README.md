@@ -134,8 +134,12 @@ I checked Bank Application is working properly as shown in the screenshot attach
 After checking make the kubernetes service type as ClusterIP as shown in the screenshot attached below.
 ![image](https://github.com/user-attachments/assets/5655806c-535b-42b9-a456-2dbcee6221d6)
 
-
+Finally promote the rollout to make the changes as Active.
+![image](https://github.com/user-attachments/assets/e74959c5-f8ea-4033-a5cd-f021e763bcae)
 
 ![image](https://github.com/user-attachments/assets/fe8ed082-e195-4b3f-b627-414c273b7eaf)
-![image](https://github.com/user-attachments/assets/e74959c5-f8ea-4033-a5cd-f021e763bcae)
 ![image](https://github.com/user-attachments/assets/5f910d6a-7d95-4cfb-a2c9-0e526ca5abbf)
+
+Access the Bank Application as shown in the screenshot attached below.
+![image](https://github.com/user-attachments/assets/59e66faa-e92e-4c72-9cdb-9476f45c6f94)
+![image](https://github.com/user-attachments/assets/ceda8436-8ae5-4f75-ace3-3a619f4a5a58)
