@@ -94,6 +94,8 @@ After Running the Jenkins Job the screenshot for SonarQube, Nexus and ArgoCD is 
 ![image](https://github.com/user-attachments/assets/e9b919d3-21dd-406e-8db0-5c760b5dd32b)
 ![image](https://github.com/user-attachments/assets/8a5e6c10-b1bf-472b-ade2-f087e3f1bc84)
 
+The screenshot for two jenkins job is as shown below.
+![image](https://github.com/user-attachments/assets/f684c8d3-5c39-4615-b29a-99ef79195866)
 
 Install Argo Rollout Controller
 ```
@@ -114,6 +116,26 @@ kubectl get ro -n <namespace>
 kubectl argo rollouts get rollout <rollout-name> -n <namespace>
 kubectl argo rollouts promote <rollout-name> -n <namespace>
 ```
+
+Entry for Route53 is as shown in the screenshot attached below.
+![image](https://github.com/user-attachments/assets/3c3de751-82d9-4c06-a6ae-12ef0bcd4f46)
+
+We can access the Bank Application for the first time after running the jenkins job as shown in the screenshot attached below.
+![image](https://github.com/user-attachments/assets/0fc21bc7-076d-4b9c-9ad9-cd6e34afac28)
+![image](https://github.com/user-attachments/assets/5addf319-479f-45b7-89a7-4633ebb4d12b)
+
+As per the requirement some changes has been done in the Application's login page (in the login.html file) and the bank name has been changed from Goldencat to GoldenDuck as a part of the new release.
+For new release to get implemented the Jenkins Job has been run and as we can there are two service and pods for active and preview. The preview to get implemented first of all I check whether it is working properly or not. To do so I changed the service type of kubernetes from ClusterIP to LoadBalancer as shown in the screenshot attached below.  
+![image](https://github.com/user-attachments/assets/5e138bd3-1cab-4f32-a935-23f09da25eda)
+
+I checked Bank Application is working properly as shown in the screenshot attached below.
+![image](https://github.com/user-attachments/assets/bf7e84f9-d779-4479-8bfb-cb95031f525b)
+
+After checking make the kubernetes service type as ClusterIP as shown in the screenshot attached below.
+![image](https://github.com/user-attachments/assets/5655806c-535b-42b9-a456-2dbcee6221d6)
+
+
+
 ![image](https://github.com/user-attachments/assets/fe8ed082-e195-4b3f-b627-414c273b7eaf)
 ![image](https://github.com/user-attachments/assets/e74959c5-f8ea-4033-a5cd-f021e763bcae)
 ![image](https://github.com/user-attachments/assets/5f910d6a-7d95-4cfb-a2c9-0e526ca5abbf)
