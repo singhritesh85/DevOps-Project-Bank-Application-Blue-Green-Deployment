@@ -2,6 +2,11 @@
 
 ![image](https://github.com/user-attachments/assets/db214f70-d573-4a15-9e93-8e3485edea04)
 
+![image](https://github.com/user-attachments/assets/eed4faee-f2e4-44cd-94b0-6b7d068af73a)
+![image](https://github.com/user-attachments/assets/b018a518-4f57-4869-b05f-30545da14615)
+![image](https://github.com/user-attachments/assets/3e0086d9-8571-436d-97a5-f6944ba8f627)
+
+
 Installation of SonarQube-Scanner, Nexus Artifacts Uploader and pipeline utility step plugins in Jenkins is as shown in the screenshot attached below.
 ![image](https://github.com/user-attachments/assets/9c8168bc-8fd1-4dfb-ad22-9a0d98d5850d)
 
