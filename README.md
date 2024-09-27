@@ -143,3 +143,23 @@ Finally promote the rollout to make the changes as Active.
 Access the Bank Application as shown in the screenshot attached below.
 ![image](https://github.com/user-attachments/assets/59e66faa-e92e-4c72-9cdb-9476f45c6f94)
 ![image](https://github.com/user-attachments/assets/ceda8436-8ae5-4f75-ace3-3a619f4a5a58)
+
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Source Code:-  https://github.com/singhritesh85/Bank-App.git
+Helm Chart:-   https://github.com/singhritesh85/helm-repo-for-Blue-Green-Deployment.git
+```
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Reference:-    https://github.com/Goldencat98/Bank-App.git
+```
