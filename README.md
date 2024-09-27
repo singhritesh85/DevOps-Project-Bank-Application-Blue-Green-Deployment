@@ -1,6 +1,6 @@
 # DevOps-Project-Bank-Application-Blue-Green-Deployment-Aws
 
-![image](https://github.com/user-attachments/assets/0a771a89-8ba6-4279-ab7a-b5c591ae2cd8)
+![image](https://github.com/user-attachments/assets/db214f70-d573-4a15-9e93-8e3485edea04)
 
 Installation of SonarQube-Scanner, Nexus Artifacts Uploader and pipeline utility step plugins in Jenkins is as shown in the screenshot attached below.
 ![image](https://github.com/user-attachments/assets/9c8168bc-8fd1-4dfb-ad22-9a0d98d5850d)
