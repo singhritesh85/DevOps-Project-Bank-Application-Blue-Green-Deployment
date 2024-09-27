@@ -1,6 +1,9 @@
 # DevOps-Project-Bank-Application-Blue-Green-Deployment-Aws
 
+Architechture diagram for the project is shown below.
 ![image](https://github.com/user-attachments/assets/db214f70-d573-4a15-9e93-8e3485edea04)
+
+Architechture diagram for Blue-Green deployment is shown below.
 
 ![image](https://github.com/user-attachments/assets/eed4faee-f2e4-44cd-94b0-6b7d068af73a)
 ![image](https://github.com/user-attachments/assets/b018a518-4f57-4869-b05f-30545da14615)
